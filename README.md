@@ -44,7 +44,7 @@ Please Note this mod is not optimized at all yet, so these are the base settings
 
 This has been tested on my old Laptop and it hovered around 30FPS with these specs.
 
-MINIMUM: 
+# MINIMUM: 
 
 OS: 64-Bit Windows 8 Service Pack 1, or Windows 8 
 
