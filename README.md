@@ -40,7 +40,13 @@ Zukulemto
 
 #System
 
-Please Note this mod is not optimized at all yet, so these are the base settings to get the mod running at 30FPS Minimum, Also you can configure the mod to make the frame rate rise slightly in the Config file, Tutorial shown below.
+Please Note this mod is not optimized at all yet, so these are the base settings to get the mod running at 30FPS Minimum, Also you can configure the mod to make the frame rate rise slightly in the Config file but makes the mod and game unstable, Tutorial shown below.
+
+
+
+
+
+
 
 This has been tested on my old Laptop and it hovered around 30FPS with these specs.
 
